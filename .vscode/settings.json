@@ -10,6 +10,6 @@
     "python.unitTest.pyTestEnabled": false,
     "python.unitTest.nosetestsEnabled": false,
     "python.unitTest.unittestEnabled": false,
-    "python.pythonPath": "virtual\\Scripts\\python.exe",
+    "python.pythonPath": "virtual/bin/python",
     "python.unitTest.promptToConfigure": false
 }
